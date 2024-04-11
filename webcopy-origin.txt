@@ -1,0 +1,232 @@
+Uri: https://polyfill-fastly.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Downloaded Web Sites\www.donkesol.org\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"1058"}&beckyExperiments=specs.thunderbolt.compCssMappers_catharsis:true%2Cspecs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.refCompNativeMapper:true%2Cspecs.thunderbolt.root_components_carmi:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.proGalleryMasterInfo:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.facebookVideoPlayerDimensions:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.shouldExportBlockingSocialComponentsEnabled:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.fiveGridLineStudioSkins:true%2Cspecs.thunderbolt.TPA3DGalleryEEUrl:true%2Cspecs.thunderbolt.allowWEBPTransformation:true%2Cspecs.thunderbolt.StripColumnsContainerMapper:true%2Cspecs.thunderbolt.accordionHeightAuto:true%2Cspecs.thunderbolt.dynamicLoadTpaFeature:true%2Cspecs.thunderbolt.fetch_widget_iteratively:true%2Cspecs.thunderbolt.TextInputAutoFillFix:true&contentType=application%2Fjson&cssPerBreakpointWidgetIds=44c66af6-4d25-485a-ad9d-385f5460deef%2C14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2C14dd1af6-3e02-63db-0ef2-72fbc7cc3136%2C14cefc05-d163-dbb7-e4ec-cd4f2c4d6ddd%2C14dbefb9-3b7b-c4e9-53e8-766defd30587&deviceType=Desktop&dfCk=6&dfVersion=1.3241.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_cancelMediaBackgroundDuplicationFixer%2Cdm_fixVectorImageModesOverridesProperties%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_removeMobileVariantFromPageViewer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.donkesol.org&fileId=4ea26777.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=09d13f22-db12-4133-b541-0e8f8c3e9f33&module=thunderbolt-features&originalLanguage=en&pageId=c1324a_77af46eb2f76119e855ba1b4cfebe528_450.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=fe20e654-9823-4f5b-bcec-ff527f8a8334&siteRevision=450&staticHTMLComponentUrl=https:%2F%2Fwww-donkesol-org.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.donkesol.org\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"1058"}&beckyExperiments=specs.thunderbolt.compCssMappers_catharsis:true%2Cspecs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.refCompNativeMapper:true%2Cspecs.thunderbolt.root_components_carmi:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.proGalleryMasterInfo:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.facebookVideoPlayerDimensions:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.shouldExportBlockingSocialComponentsEnabled:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.fiveGridLineStudioSkins:true%2Cspecs.thunderbolt.TPA3DGalleryEEUrl:true%2Cspecs.thunderbolt.allowWEBPTransformation:true%2Cspecs.thunderbolt.StripColumnsContainerMapper:true%2Cspecs.thunderbolt.accordionHeightAuto:true%2Cspecs.thunderbolt.dynamicLoadTpaFeature:true%2Cspecs.thunderbolt.fetch_widget_iteratively:true%2Cspecs.thunderbolt.TextInputAutoFillFix:true&contentType=application%2Fjson&cssPerBreakpointWidgetIds=44c66af6-4d25-485a-ad9d-385f5460deef%2C14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2C14dd1af6-3e02-63db-0ef2-72fbc7cc3136%2C14cefc05-d163-dbb7-e4ec-cd4f2c4d6ddd%2C14dbefb9-3b7b-c4e9-53e8-766defd30587&deviceType=Desktop&dfCk=6&dfVersion=1.3241.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_cancelMediaBackgroundDuplicationFixer%2Cdm_fixVectorImageModesOverridesProperties%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_removeMobileVariantFromPageViewer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.donkesol.org&fileId=4ea26777.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=09d13f22-db12-4133-b541-0e8f8c3e9f33&module=thunderbolt-features&originalLanguage=en&pageId=c1324a_abb9b529ba6f5236ec7de302f1e98934_450.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=fe20e654-9823-4f5b-bcec-ff527f8a8334&siteRevision=450&staticHTMLComponentUrl=https:%2F%2Fwww-donkesol-org.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.donkesol.org\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"1058"}&beckyExperiments=specs.thunderbolt.compCssMappers_catharsis:true%2Cspecs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.refCompNativeMapper:true%2Cspecs.thunderbolt.root_components_carmi:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.proGalleryMasterInfo:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.facebookVideoPlayerDimensions:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.shouldExportBlockingSocialComponentsEnabled:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.fiveGridLineStudioSkins:true%2Cspecs.thunderbolt.TPA3DGalleryEEUrl:true%2Cspecs.thunderbolt.allowWEBPTransformation:true%2Cspecs.thunderbolt.StripColumnsContainerMapper:true%2Cspecs.thunderbolt.accordionHeightAuto:true%2Cspecs.thunderbolt.dynamicLoadTpaFeature:true%2Cspecs.thunderbolt.fetch_widget_iteratively:true%2Cspecs.thunderbolt.TextInputAutoFillFix:true&contentType=application%2Fjson&cssPerBreakpointWidgetIds=44c66af6-4d25-485a-ad9d-385f5460deef%2C14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2C14dd1af6-3e02-63db-0ef2-72fbc7cc3136%2C14cefc05-d163-dbb7-e4ec-cd4f2c4d6ddd%2C14dbefb9-3b7b-c4e9-53e8-766defd30587&dfCk=6&dfVersion=1.3241.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_cancelMediaBackgroundDuplicationFixer%2Cdm_fixVectorImageModesOverridesProperties%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_removeMobileVariantFromPageViewer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.donkesol.org&fileId=7f211ddd.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=09d13f22-db12-4133-b541-0e8f8c3e9f33&module=thunderbolt-platform&originalLanguage=en&pageId=c1324a_77af46eb2f76119e855ba1b4cfebe528_450.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=fe20e654-9823-4f5b-bcec-ff527f8a8334&siteRevision=450&staticHTMLComponentUrl=https:%2F%2Fwww-donkesol-org.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.donkesol.org\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14bcded7-0066-7c35-14d7-466cb3f09103":"1058"}&beckyExperiments=specs.thunderbolt.compCssMappers_catharsis:true%2Cspecs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.refCompNativeMapper:true%2Cspecs.thunderbolt.root_components_carmi:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.proGalleryMasterInfo:true%2Cspecs.thunderbolt.app_reflow_with_lightboxes:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.facebookVideoPlayerDimensions:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.enableTriggersOnDynamicMount:true%2Cspecs.thunderbolt.shouldExportBlockingSocialComponentsEnabled:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.fiveGridLineStudioSkins:true%2Cspecs.thunderbolt.TPA3DGalleryEEUrl:true%2Cspecs.thunderbolt.allowWEBPTransformation:true%2Cspecs.thunderbolt.StripColumnsContainerMapper:true%2Cspecs.thunderbolt.accordionHeightAuto:true%2Cspecs.thunderbolt.dynamicLoadTpaFeature:true%2Cspecs.thunderbolt.fetch_widget_iteratively:true%2Cspecs.thunderbolt.TextInputAutoFillFix:true&contentType=application%2Fjson&cssPerBreakpointWidgetIds=44c66af6-4d25-485a-ad9d-385f5460deef%2C14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2C14dd1af6-3e02-63db-0ef2-72fbc7cc3136%2C14cefc05-d163-dbb7-e4ec-cd4f2c4d6ddd%2C14dbefb9-3b7b-c4e9-53e8-766defd30587&dfCk=6&dfVersion=1.3241.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_cancelMediaBackgroundDuplicationFixer%2Cdm_fixVectorImageModesOverridesProperties%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_removeMobileVariantFromPageViewer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.donkesol.org&fileId=7f211ddd.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=09d13f22-db12-4133-b541-0e8f8c3e9f33&module=thunderbolt-platform&originalLanguage=en&pageId=c1324a_abb9b529ba6f5236ec7de302f1e98934_450.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11980.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=fe20e654-9823-4f5b-bcec-ff527f8a8334&siteRevision=450&staticHTMLComponentUrl=https:%2F%2Fwww-donkesol-org.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.donkesol.org\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.827.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\tag-manager-client\1.827.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\03805817-4611-4dbc-8c65-0f73031c3973.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/05ad458f-263b-413f-b054-6001a987ff3e.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\05ad458f-263b-413f-b054-6001a987ff3e.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/375c70e5-6822-492b-8408-7cd350440af7.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\375c70e5-6822-492b-8408-7cd350440af7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\717f8140-20c9-4892-9815-38b48f14ce2b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/92c941ea-2b06-4b72-9165-17476d424d6c.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\92c941ea-2b06-4b72-9165-17476d424d6c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9fe262dc-5a55-4d75-91a4-aed76bd32190.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\9fe262dc-5a55-4d75-91a4-aed76bd32190.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b791c850-fde1-48b3-adf0-8998d55b0866.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\b791c850-fde1-48b3-adf0-8998d55b0866.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\bc176270-17fa-4c78-a343-9fe52824e501.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c5749443-93da-4592-b794-42f28d62ef72.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\c5749443-93da-4592-b794-42f28d62ef72.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/f70da45a-a05c-490c-ad62-7db4894b012a.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\f70da45a-a05c-490c-ad62-7db4894b012a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\third-party\fonts\user-site-fonts\fonts\ff80873b-6ac3-44f7-b029-1b4111beac76.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.1095.0/wix-perf-measure.umd.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\wix-perf-measure\1.1095.0\wix-perf-measure.umd.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.80b408cc.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\wix-thunderbolt\dist\main.80b408cc.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.1d21f023.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\wix-thunderbolt\dist\main.renderer.1d21f023.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.bd0edef9.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\services\wix-thunderbolt\dist\thunderbolt-commons.bd0edef9.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.2.0/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\unpkg\react-dom@18.2.0\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.2.0/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\www.donkesol.org\unpkg\react@18.2.0\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png/v1/fill/w_76,h_76,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png\v1\fill\w_76,h_76,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\c1324a_0968d946b22d45109b2b11a307cd43f9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/c1324a_6f32578595ba4f8ca00e87d61d8c89a8~mv2.png/v1/fill/w_370,h_370,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c1324a_6f32578595ba4f8ca00e87d61d8c89a8~mv2.png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_6f32578595ba4f8ca00e87d61d8c89a8~mv2.png\v1\fill\w_370,h_370,al_c,q_85,usm_0.66_1.00_0.01,enc_auto\c1324a_6f32578595ba4f8ca00e87d61d8c89a8~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/c1324a_b59db20bb29642cf8e1382360b19318d~mv2.png/v1/crop/x_565,y_0,w_1880,h_1000/fill/w_376,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c1324a_b59db20bb29642cf8e1382360b19318d~mv2.png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_b59db20bb29642cf8e1382360b19318d~mv2.png\v1\crop\x_565,y_0,w_1880,h_1000\fill\w_376,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto\c1324a_b59db20bb29642cf8e1382360b19318d~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/c1324a_f7ec95494f1f4cd7ad9daa7b580d0f0b~mv2.png/v1/fill/w_365,h_365,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Untitled_Artwork 6 (16).png
+File Name: C:\Downloaded Web Sites\www.donkesol.org\media\c1324a_f7ec95494f1f4cd7ad9daa7b580d0f0b~mv2.png\v1\fill\w_365,h_365,al_c,q_85,usm_0.66_1.00_0.01,enc_auto\Untitled_Artwork 6 (16).png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/ufonts/b05331_602813554256403ba8543d605759920c/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.donkesol.org\ufonts\b05331_602813554256403ba8543d605759920c\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/b05331_602813554256403ba8543d605759920c/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.donkesol.org\ufonts\b05331_602813554256403ba8543d605759920c\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/b05331_602813554256403ba8543d605759920c/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.donkesol.org\ufonts\b05331_602813554256403ba8543d605759920c\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.donkesol.org/
+File Name: C:\Downloaded Web Sites\www.donkesol.org\index.htm
+Content Type: text/html
+
